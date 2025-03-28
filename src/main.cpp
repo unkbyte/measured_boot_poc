@@ -90,9 +90,6 @@ struct tcg_pcr_event2 {
 };
 #pragma pack(pop)
 
-extern "C" TBS_RESULT WINAPI Tbsi_Get_TCG_Log_Ex(std::uint32_t log_type, std::uint8_t* pb_output,
-                                                 std::uint32_t* pcb_output);
-
 std::string hex_encode(const std::uint8_t* data, std::size_t len) {
     std::ostringstream oss;
     for (std::size_t i = 0; i < len; ++i) {
