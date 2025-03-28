@@ -22,3 +22,6 @@ I know this isn’t groundbreaking, but I created this simple project as part of
 - https://github.com/tpm2-software/tpm2-tools
 - https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-security/decode-measured-boot-logs-to-track-pcr-changes
 - https://trustedcomputinggroup.org/wp-content/uploads/TCG-PC-Client-Platform-Firmware-Profile-Version-1.06-Revision-52_pub-3.pdf
+
+## Contact
+- Discord: unkbyte
